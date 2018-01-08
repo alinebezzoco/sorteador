@@ -1,2 +1,2 @@
-# sorteador
-An simple jQuery random numbers
+# Sorteador de Brindes
+A simple jQuery random numbers for the event ngGirls @ Rio
