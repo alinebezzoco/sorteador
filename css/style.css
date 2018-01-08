@@ -1,0 +1,46 @@
+*, body {
+	margin: 0;
+	padding: 0;
+	font: bold 20px Arial, sans-serif;
+}
+
+p { 
+	text-align: center;
+	padding: 30px 0;
+	font-size: 1.5rem;
+}
+
+img { 
+	margin: 100px auto 0 auto;
+	width: 100%;
+}
+
+hr { 
+    box-shadow: none;
+    border-color: #d6d6d6;
+    border-style: solid;
+    height: 0;
+}
+
+button { 
+	margin: 0 auto;
+	display: block;
+	width: 100%;
+	box-shadow: none;
+	background-color: #c2152c;
+	color: #fff;
+	text-transform: uppercase;
+	border: none;
+	padding: 20px;
+}
+
+.container {
+	width: 500px;
+	margin: 50px auto;
+}
+
+#randomnumber {
+	font-size: 5rem;
+	text-align: center;
+	padding: 20px 0;
+}
