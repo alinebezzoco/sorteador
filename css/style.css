@@ -11,7 +11,7 @@ p {
 }
 
 img { 
-	margin: 100px auto 0 auto;
+	margin: 0 auto;
 	width: 100%;
 }
 
@@ -25,7 +25,7 @@ hr {
 button { 
 	margin: 0 auto;
 	display: block;
-	width: 100%;
+	width: 70%;
 	box-shadow: none;
 	background-color: #c2152c;
 	color: #fff;
@@ -35,8 +35,14 @@ button {
 }
 
 .container {
-	width: 500px;
+	width: 960px;
 	margin: 50px auto;
+}
+
+.logo { 
+	width: 70%;
+    margin: 0 auto;
+    display: block
 }
 
 #randomnumber {
